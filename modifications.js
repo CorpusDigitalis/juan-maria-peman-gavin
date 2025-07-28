@@ -33,8 +33,7 @@ function appliquerModifications() {
     "email": { text: "Email", href: "jpemang@unizar.es" },
     "linkedin": { text: "", href: "" },
     "scholar": { text: "Google Scholar", href: "https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=J.+M.+Pem%C3%A1n+Gav%C3%ADn&btnG=" },
-    "cv": { text: "CV", href: "https://www.udl.cat/export/sites/universitat-lleida/ca/serveis/personal/.galleries/docs/PDI/Concursos/Cossos-Docents/CU43-pi/CU-121pi-Dret-Administratiu/President-.pdf
-" },
+    "cv": { text: "CV", href: "https://www.udl.cat/export/sites/universitat-lleida/ca/serveis/personal/.galleries/docs/PDI/Concursos/Cossos-Docents/CU43-pi/CU-121pi-Dret-Administratiu/President-.pdf"},
 
     // Footer
     "signature": { text: "© Corpus Digitalis" },
