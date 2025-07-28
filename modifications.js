@@ -49,7 +49,7 @@ function appliquerModifications() {
     "text": "Derecho a la salud y Administración sanitaria (1989)"
   },
   "publication-1-lien": {
-    "text": "léelo",
+    "text": "Léelo",
     "href": "https://openlibrary.org/books/OL1623686M/Derecho_a_la_salud_y_administracio%CC%81n_sanitaria"
   },
 
@@ -58,7 +58,7 @@ function appliquerModifications() {
     "text": "Asistencia sanitaria y Sistema Nacional de Salud. Estudios jurídicos (2005)"
   },
   "publication-2-lien": {
-    "text": "consultar",
+    "text": "Consultar",
     "href": "https://editorial.tirant.com/es/libro/asistencia-sanitaria-y-sistema-nacional-de-salud-estudios-juridicos-9788481513752"
   },
 
@@ -67,7 +67,7 @@ function appliquerModifications() {
     "text": "El derecho a la salud como derecho social: desarrollos recientes desde la perspectiva internacional y en el Derecho comparado (2009)"
   },
   "publication-3-lien": {
-    "text": "verlo",
+    "text": "Verlo",
     "href": "https://recyt.fecyt.es/index.php/RAP/article/view/45808"
   },
 
