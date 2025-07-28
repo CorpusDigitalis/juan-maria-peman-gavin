@@ -20,7 +20,7 @@ function appliquerModifications() {
     "titre-accueil": { text: "Bienvenido" },
     "texte-description": {
       text:
-        "Soy Catedrático de Derecho Administrativo en la Universidad de Zaragoza<br>y he dedicado más de cuatro décadas a la docencia y a la investigación universitaria.<br><br>Mis líneas de investigación se han centrado especialmente en el Derecho sanitario,<br>el Derecho público de la economía,<br>el régimen de las autonomías territoriales<br>y la justicia administrativa,<br>con una amplia producción científica en estos ámbitos.<br><br>Mi trayectoria se ha guiado siempre por un compromiso con la calidad académica,<br>la formación de nuevos investigadores<br>y la defensa del Estado de Derecho."
+        "Soy Catedrático de Derecho Administrativo en la Universidad de Zaragoza<br>y he dedicado más de cuatro décadas a la docencia y a la investigación universitaria.<br><br>Mis líneas de investigación se han centrado especialmente en el Derecho sanitario,<br>el Derecho público de la economía,<br>el régimen de las autonomías territoriales<br>y la justicia administrativa,<br>con una amplia producción científica en estos ámbitos.<br><br>Mi trayectoria se ha guiado siempre por un compromiso con la calidad académica,<br>la formación de nuevos investigadores y la defensa del Estado de Derecho."
     },
 
     // Header
