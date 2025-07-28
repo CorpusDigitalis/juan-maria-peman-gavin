@@ -26,7 +26,7 @@ function appliquerModifications() {
     // Header
     "titre-header": { text: "Juan María Pemán Gavín" },
     "texte-accueil": { text: "Inicio" },
-    "texte-cours": { text: "Clases" },
+    "texte-cours": { text: "" },
     "texte-publications": { text: "Publicaciones" },
 
     // Footer
