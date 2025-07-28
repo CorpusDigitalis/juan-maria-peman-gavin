@@ -17,121 +17,122 @@ function appliquerModifications() {
   const modifications = {
     
     // Accueil
-    "titre-accueil": { text: "Bienvenue" },
+    "titre-accueil": { text: "Bienvenido" },
     "texte-description": {
       text:
-        "Je crée des sites web professionnels sur mesure, conçus pour mettre en valeur l’identité, les réalisations et l’expertise de professionnels issus de divers secteurs. Une attention particulière est portée à la clarté, la simplicité d’utilisation et à l’autonomie dans la gestion du site.<br><br>Au-delà de la technique, un suivi personnalisé est offert tout au long du processus de création et après la mise en ligne. Ce partenariat permet d’adapter précisément le site aux besoins évolutifs, assurant ainsi une présence digitale cohérente et efficace.<br><br>Un site web personnel bien conçu est un atout majeur pour renforcer l’image professionnelle, crédibiliser les compétences et ouvrir de nouvelles opportunités. Il sert d’espace d’expression privilégié pour valoriser le travail et les projets."
+        "Soy Catedrático de Derecho Administrativo en la Universidad de Zaragoza y he dedicado más de cuatro décadas a la docencia y a la investigación universitaria. Mis líneas de investigación se han centrado especialmente en el Derecho sanitario, el Derecho público de la economía, el régimen de las autonomías territoriales y la justicia administrativa, con una amplia producción científica en estos ámbitos. Mi trayectoria se ha guiado siempre por un compromiso con la calidad académica, la formación de nuevos investigadores y la defensa del Estado de Derecho."
     },
 
     // Header
-    "titre-header": { text: "Tristan Arbona" },
-    "texte-accueil": { text: "Accueil" },
-    "texte-cours": { text: "Cours" },
-    "texte-publications": { text: "Publications" },
+    "titre-header": { text: "Juan María Pemán Gavín" },
+    "texte-accueil": { text: "Inicio" },
+    "texte-cours": { text: "" },
+    "texte-publications": { text: "Publicaciones" },
 
     // Footer
-    "email": { text: "Email", href: "mailto:tristan.arbona@gmail.com" },
-    "linkedin": { text: "LinkedIn", href: "https://www.linkedin.com/in/tristan-arbona-a4829a269/" },
-    "scholar": { text: "Google Scholar", href: "https://scholar.google.com/citations?user=XXXX" },
-    "cv": { text: "CV", href: "https://drive.google.com/file/d/1iy_p1gbycwSr_AFHjfRfNRiofvvcXwD7/view" },
+    "email": { text: "Email", href: "jpemang@unizar.es" },
+    "linkedin": { text: "", href: "" },
+    "scholar": { text: "Google Scholar", href: "https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=J.+M.+Pem%C3%A1n+Gav%C3%ADn&btnG=" },
+    "cv": { text: "CV", href: "https://www.udl.cat/export/sites/universitat-lleida/ca/serveis/personal/.galleries/docs/PDI/Concursos/Cossos-Docents/CU43-pi/CU-121pi-Dret-Administratiu/President-.pdf
+" },
 
     // Footer
     "signature": { text: "© Corpus Digitalis" },
 
     // Publications (nouveaux ID demandés)
-    "titre-publications": { text: "Mes publications économiques" },
+    "titre-publications": { text: "Mis publicaciones" },
     "texte-intro": {
-      text: "Retrouvez ci-dessous une liste d'exemples de contributions académiques."
+      text: "A continuación se muestra una lista de mis contribuciones académicas."
     },
    
   "publication-1": {},
   "publication-1-texte": {
-    "text": "Nouvel article sur la politique monétaire européenne."
+    "text": "Derecho a la salud y Administración sanitaria (1989)"
   },
   "publication-1-lien": {
-    "text": "Lire l'article complet",
-    "href": "https://drive.google.com/file/d/1-IZoG-GmCkJKZ_duSRNgTxFpPJ11pmIs/view?usp=drive_link"
+    "text": "léelo",
+    "href": "https://openlibrary.org/books/OL1623686M/Derecho_a_la_salud_y_administracio%CC%81n_sanitaria"
   },
 
   "publication-2": {},
   "publication-2-texte": {
-    "text": "Présentation de recherche sur les taux d'intérêt réels."
+    "text": "Asistencia sanitaria y Sistema Nacional de Salud. Estudios jurídicos (2005)"
   },
   "publication-2-lien": {
-    "text": "Voir la communication",
-    "href": "https://drive.google.com/file/d/1-IZoG-GmCkJKZ_duSRNgTxFpPJ11pmIs/view?usp=drive_link"
+    "text": "consultar",
+    "href": "https://editorial.tirant.com/es/libro/asistencia-sanitaria-y-sistema-nacional-de-salud-estudios-juridicos-9788481513752"
   },
 
   "publication-3": {},
   "publication-3-texte": {
-    "text": ""
+    "text": "El derecho a la salud como derecho social: desarrollos recientes desde la perspectiva internacional y en el Derecho comparado (2009)"
   },
   "publication-3-lien": {
-    "text": "",
-    "href": "https://drive.google.com/file/d/1-IZoG-GmCkJKZ_duSRNgTxFpPJ11pmIs/view?usp=drive_link"
+    "text": "verlo",
+    "href": "https://recyt.fecyt.es/index.php/RAP/article/view/45808"
   },
 
   "publication-4": {},
   "publication-4-texte": {
-    "text": "Synthèse d’un séminaire sur les déséquilibres macroéconomiques."
+    "text": ""
   },
   "publication-4-lien": {
-    "text": "Télécharger le document",
-    "href": "https://drive.google.com/file/d/1-IZoG-GmCkJKZ_duSRNgTxFpPJ11pmIs/view?usp=drive_link"
+    "text": "",
+    "href": ""
   },
 
   "publication-5": {},
   "publication-5-texte": {
-    "text": "Étude empirique sur les marchés du travail en Europe."
+    "text": ""
   },
   "publication-5-lien": {
-    "text": "Accéder à l’étude",
-    "href": "https://drive.google.com/file/d/1-IZoG-GmCkJKZ_duSRNgTxFpPJ11pmIs/view?usp=drive_link"
+    "text": "",
+    "href": ""
   },
 
   "publication-6": {},
   "publication-6-texte": {
-    "text": "Note de recherche sur l’évolution des taux directeurs."
+    "text": ""
   },
   "publication-6-lien": {
-    "text": "Lire la note",
-    "href": "https://drive.google.com/file/d/1-IZoG-GmCkJKZ_duSRNgTxFpPJ11pmIs/view?usp=drive_link"
+    "text": "",
+    "href": ""
   },
 
   "publication-7": {},
   "publication-7-texte": {
-    "text": "Mémoire de licence en économie publique."
+    "text": ""
   },
   "publication-7-lien": {
-    "text": "Voir le mémoire",
-    "href": "https://drive.google.com/file/d/1-IZoG-GmCkJKZ_duSRNgTxFpPJ11pmIs/view?usp=drive_link"
+    "text": "",
+    "href": ""
   },
 
   "publication-8": {},
   "publication-8-texte": {
-    "text": "Article de revue étudiante sur la crise énergétique."
+    "text": ""
   },
   "publication-8-lien": {
-    "text": "Consulter l'article",
-    "href": "https://drive.google.com/file/d/1-IZoG-GmCkJKZ_duSRNgTxFpPJ11pmIs/view?usp=drive_link"
+    "text": "",
+    "href": ""
   },
 
   "publication-9": {},
   "publication-9-texte": {
-    "text": "Communication lors du colloque sur les inégalités."
+    "text": ""
   },
   "publication-9-lien": {
-    "text": "Voir la communication",
-    "href": "https://drive.google.com/file/d/1-IZoG-GmCkJKZ_duSRNgTxFpPJ11pmIs/view?usp=drive_link"
+    "text": "",
+    "href": ""
   },
 
   "publication-10": {},
   "publication-10-texte": {
-    "text": "Rapport de recherche sur la croissance inclusive."
+    "text": ""
   },
   "publication-10-lien": {
-    "text": "Télécharger le rapport",
-    "href": "https://drive.google.com/file/d/1-IZoG-GmCkJKZ_duSRNgTxFpPJ11pmIs/view?usp=drive_link"
+    "text": "",
+    "href": ""
   },
 
 "publication-11": {},
